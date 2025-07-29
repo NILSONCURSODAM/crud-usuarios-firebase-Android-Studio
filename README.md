@@ -60,11 +60,11 @@ MiAppCrudFirebase/
 
 ## 📷 Capturas de Pantalla
 
-| LoginActivity | CRUD Usuarios                   | CRUD Profesiones            |
-|---------------|---------------------------------|-----------------------------|
-| ![](./screenshots/login.png) | ![](./screenshots/Registro.png) | ![](./screenshots/Crud.png) |
+| CRUD Usuarios                   | CRUD Profesiones            |   | LoginActivity |
+|---------------------------------|-----------------------------|---|---------------|
+| ![](./screenshots/Registro.png) | ![](./screenshots/Crud.png) |   | ![](./screenshots/login.png) |
 
-> Puedes añadir capturas en la carpeta `screenshots/` y enlazarlas como en el ejemplo.
+>
 
 ---
 
