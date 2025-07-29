@@ -1,15 +1,43 @@
+# === Android Studio ===
+.gradle/
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+build/
+**/build/
+captures/
+.externalNativeBuild/
 local.properties
+
+# === Firebase ===
+google-services.json
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.orig
+*.tmp
+*.log
+*.lock
+
+# === Archivos binarios ===
+*.apk
+*.aar
+
+# === Emulador de Android ===
+.android/
+.emulator/
+
+# === Editores ===
+.vscode/
+*.sublime-workspace
+
+# === Python (por si integras scripts) ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === JS / Node.js (por si integras React Native) ===
+node_modules/
