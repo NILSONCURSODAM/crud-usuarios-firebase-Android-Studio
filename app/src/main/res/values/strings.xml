@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi App CRUD Firebase</string>
+    <string name="hint_alias">Alias</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="link_register">¿No tienes cuenta? Regístrate aquí</string>
+
+
+</resources>
