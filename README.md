@@ -60,9 +60,12 @@ MiAppCrudFirebase/
 
 ## 📷 Capturas de Pantalla
 
-| CRUD Usuarios                   | CRUD Profesiones            |   | LoginActivity |
-|---------------------------------|-----------------------------|---|---------------|
-| ![](./screenshots/Registro.png) | ![](./screenshots/Crud.png) |   | ![](./screenshots/login.png) |
+| CRUD Usuarios                | CRUD Profesiones            |
+|------------------------------|-----------------------------|
+| ![](./screenshots/Registro.png) | ![](./screenshots/Crud.png) |
+|                              |                             |   
+| LoginActivity                       |                             |
+| ![](./screenshots/login.png) |                             |
 
 >
 
