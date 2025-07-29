@@ -65,9 +65,9 @@ MiAppCrudFirebase/
 | ![](./screenshots/Registro.png) | ![](./screenshots/Crud.png) |
 |                            |                             |
 >
-| LoginActivity                   |
-|---------------------------------|
-| ![](./screenshots/Registro.png) |
+| LoginActivity                |
+|------------------------------|
+| ![](./screenshots/Login.png) |
 |             
 >
 
