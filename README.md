@@ -60,16 +60,17 @@ MiAppCrudFirebase/
 
 ## 📷 Capturas de Pantalla
 
-| CRUD Usuarios                | CRUD Profesiones            |
-|------------------------------|-----------------------------|
+| Registro                   | CRUD Profesiones            |
+|----------------------------|-----------------------------|
 | ![](./screenshots/Registro.png) | ![](./screenshots/Crud.png) |
-|                              |                             |   
-| LoginActivity                       |                             |
-| ![](./screenshots/login.png) |                             |
-
+|                            |                             |
+>
+| LoginActivity                   |
+|---------------------------------|
+| ![](./screenshots/Registro.png) |
+|             
 >
 
----
 
 ## ✅ Cómo usar este proyecto
 
